@@ -1,0 +1,5 @@
+(jbuild_version 1)
+
+(executable
+ ((name mwe_re_merlinfail)
+  (public_name mwe_re_merlinfail)))

@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/mwe_re_merlinfail/META" {"META"}
+  "_build/install/default/lib/mwe_re_merlinfail/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/mwe_re_merlinfail" {"mwe_re_merlinfail"}
+]
