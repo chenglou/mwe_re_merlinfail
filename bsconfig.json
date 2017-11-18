@@ -1,0 +1,9 @@
+{
+  "name" : "NameOfLibrary",
+  "sources" : "Mwe_re_merlinfail",
+  "entries": [{
+    "backend": "bytecode",
+    "main-module": "Mwe_re_merlinfail"
+  }],
+  "refmt": 3,
+}

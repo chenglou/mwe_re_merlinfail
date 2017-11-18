@@ -1,0 +1,7 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx /Users/chenglou/Desktop/mwe_re_merlinfail/node_modules/bs-platform/bin/bsppx.exe
+FLG -no-alias-deps -color always
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S Mwe_re_merlinfail
+B lib/bs/bytecode/Mwe_re_merlinfail
+####BSB GENERATED: NO EDIT}

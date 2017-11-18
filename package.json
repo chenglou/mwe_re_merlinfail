@@ -1,0 +1,24 @@
+{
+  "name": "mwe_re_merlinfail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "bsb -make-world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubsan/mwe_re_merlinfail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubsan/mwe_re_merlinfail/issues"
+  },
+  "homepage": "https://github.com/ubsan/mwe_re_merlinfail#readme",
+  "dependencies": {
+    "bs-platform": "git+https://github.com/bsansouci/bsb-native.git"
+  }
+}
